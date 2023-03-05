@@ -1,13 +1,9 @@
 
 # I'm Akram, a Computer Science student at ESTIN BEJAIA 👋
 
-![Akram's GitHub stats](https://github-readme-stats.vercel.app/api?username=Akramex-dz&count_private=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Akramex-dz&&layout=compact)
-![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=willianrod)
+<img align="left" width="47%" src="https://github-readme-stats.vercel.app/api?username=chechna9&show_icons=true&count_private=true"/>
+<img  width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=chechna9&layout=compact" />
 
-
-
-/
 
 - 👋 Hi, I’m Bennacer Mohamed Akram ( aka @akramex-dz ) 
 - 👀 I’m interested in BackEnd Developement, and Systems Architecture and Web Design.
