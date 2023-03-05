@@ -2,7 +2,7 @@
 # I'm Akram, a Computer Science student at ESTIN BEJAIA 👋
 
 <img align="left" width="47%" src="https://github-readme-stats.vercel.app/api?username=akramex-dz&show_icons=true&theme=dracula&count_private=true"/>
-<img  width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=akramex-dz&layout=compact" />
+<img  width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=akramex-dz&layout=compact&count_private=true" />
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=akramex-dz&label=Profile%20views&color=0e75b6&style=flat" alt="akramex-dz" /> </p>
 
 - 👋 Hi, I’m Bennacer Mohamed Akram ( aka @akramex-dz ) 
