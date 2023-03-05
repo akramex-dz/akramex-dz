@@ -2,7 +2,7 @@
 # I'm Akram, a Computer Science student at ESTIN BEJAIA 👋
 
 ![Akram's GitHub stats](https://github-readme-stats.vercel.app/api?username=Akramex-dz&count_private=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Akramex-dz&langs_count=10)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Akramex-dz&&layout=compact)
 ![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=willianrod)
 
 
