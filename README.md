@@ -7,8 +7,8 @@
 
 - 👋 Hi, I’m Bennacer Mohamed Akram ( aka @akramex-dz ) 
 - 👀 I’m interested in BackEnd Developement, and Systems Architecture and Web Design.
-- 🌱 I’m currently learning Creating Apis, Managing & Designing Datbases, Ux/Ui design and computer science at ESTIN BEJAIA 
-- 📫 How to reach me m_bennacer@estin.dz or through linkedIn just type BENNACER Mohamed Akram
+- 🌱 I’m currently learning Creating Apis, Managing & Designing Datbases, computer science at ESTIN BEJAIA 
+- 📫 How to reach me m_bennacer@estin.dz or through linkedIn
 
 <!---
 akramex-dz/akramex-dz is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
