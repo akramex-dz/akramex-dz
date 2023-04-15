@@ -6,7 +6,7 @@
 
 
 - 👋 Hi, I’m Bennacer Mohamed Akram ( aka @akramex-dz ) 
-- 👀 I’m interested in BackEnd Developement, and Systems Architecture and Web Design.
+- 👀 I’m interested in BackEnd Developement and Systems Architecture.
 - 🌱 I’m currently learning Creating Apis, Managing & Designing Datbases, computer science at ESTIN BEJAIA 
 - 📫 How to reach me m_bennacer@estin.dz or through linkedIn
 
