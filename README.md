@@ -3,6 +3,7 @@
 
 <img align="left" width="47%" src="https://github-readme-stats.vercel.app/api?username=akramex-dz&show_icons=true&count_private=true"/>
 <img  width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=akramex-dz&layout=compact" />
+<img  width="40%" src="https://github-readme-streak-stats.herokuapp.com/?user=akramex-dz&hide_border=false" />
 
 
 - 👋 Hi, I’m Bennacer Mohamed Akram ( aka @akramex-dz ) 
