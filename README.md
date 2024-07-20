@@ -1,5 +1,6 @@
 
 # I'm Akram, a Data science student at ESTIN BEJAIA 👋
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=akramex-dz&label=Profile%20views&color=0e75b6&style=flat" alt="akramex-dz" /> </p>
 
 - 👋 Hi, I’m Bennacer Mohamed Akram ( aka @akramex-dz ) 
 - 👀 I’m interested in Machine Learning, back-end development, and Backend Systems Architecture.
