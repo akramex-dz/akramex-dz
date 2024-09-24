@@ -3,8 +3,8 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=akramex-dz&label=Profile%20views&color=0e75b6&style=flat" alt="akramex-dz" /> </p>
 
 - 👋 Hi, I’m Bennacer Mohamed Akram ( aka @akramex-dz ) 
-- 👀 I’m interested in Machine Learning, back-end development, and Backend Systems Architecture.
-- 🌱 I’m currently learning about Microservices and data engineering solo, Machine Learning and AI overall at ESTIN BEJAIA 
+- 👀 I’m interested in Machine Learning, Deep Learning, Reinforcement learning, back-end development, and back-end systems Architecture.
+- 🌱 I’m currently learning about Data Science and Deep Learning, Machine Learning and AI overall at ESTIN BEJAIA 
 - 📫 Open for opportunities, for collaboration reach out to me through m_bennacer@estin.dz, LinkedIn or discord @akramex
 
 <hr>
