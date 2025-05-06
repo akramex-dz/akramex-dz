@@ -11,7 +11,7 @@
 <hr>
 
 <img  width="40%" src="https://github-readme-stats.vercel.app/api?username=akramex-dz&show_icons=true&count_private=true"/>
-<img  width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=akramex-dz&layout=compac&hide=Jupyter%20Notebookt" />
+<img  width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=akramex-dz&layout=compac&hide=Jupyter%20Notebook" />
 <img  width="40%" src="https://github-readme-streak-stats.herokuapp.com/?user=akramex-dz&hide_border=false" />
 
 <!---
